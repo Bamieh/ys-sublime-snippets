@@ -3,9 +3,11 @@
 	"packages": [{
 		"name": "ys-sublime-snippets",
 		"details": "https://github.com/Bamieh/ys-sublime-snippets",
+		"labels": ["snippets"],
 		"releases": [
 			{
 				"sublime_text": "*",
+				"branch": "master",
 				"tags": true
 			}
 		]
