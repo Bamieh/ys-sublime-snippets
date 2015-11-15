@@ -10,6 +10,6 @@ Sublime Snippets for sublime 3
 
 ## Usage
 ### Yamsafer Element (Polymer Component)
-##### Description: Yamsafer Polymer Element Code Snippet
-##### Tab Trigger: ys-el(press Tab)
-##### Scope Restrictions: HTML files only.
+###### Description: Yamsafer Polymer Element Code Snippet
+###### Tab Trigger: ys-el(press Tab)
+###### Scope Restrictions: HTML files only.
