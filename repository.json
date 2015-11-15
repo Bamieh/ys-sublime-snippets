@@ -1,8 +1,15 @@
 {
-    "schema_version": "3.0.0",
-    "packages": [],
-    "dependencies": [],
-    "includes": [
-        "./repository/0.json"
-    ]
+	"schema_version": "3.0.0",
+	"packages": [{
+		"name": "ys-sublime-snippets",
+		"details": "https://github.com/Bamieh/ys-sublime-snippets",
+		"releases": [
+			{
+				"sublime_text": "*",
+				"tags": true
+			}
+		]
+	}],
+	"dependencies": [],
+	"includes": []
 }
