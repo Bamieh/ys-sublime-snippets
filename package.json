@@ -1,0 +1,20 @@
+{
+  "name": "ys-sublime-snippets",
+  "version": "0.0.1",
+  "description": "Yamsafer Sublime text 3 Snippets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bamieh/ys-sublime-snippets.git"
+  },
+  "keywords": [
+    "Yamsafer",
+    "Snippets",
+    "Sublime"
+  ],
+  "author": "Ahmad Bamieh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bamieh/ys-sublime-snippets/issues"
+  },
+  "homepage": "https://github.com/Bamieh/ys-sublime-snippets#readme"
+}
