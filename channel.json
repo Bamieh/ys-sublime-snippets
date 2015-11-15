@@ -1,0 +1,7 @@
+{
+	"schema_version": "3.0.0",
+
+	"repositories": [
+		"https://github.com/Bamieh/ys-sublime-snippets"
+	]
+}
