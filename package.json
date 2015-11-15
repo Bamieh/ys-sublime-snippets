@@ -11,7 +11,11 @@
     "Snippets",
     "Sublime"
   ],
-  "author": "Ahmad Bamieh",
+  "author": {
+    "name": "Ahmad Bamieh",
+    "email": "ahmadbamieh@gmail.com",
+    "url": "http://ahmadbamieh.me"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Bamieh/ys-sublime-snippets/issues"
