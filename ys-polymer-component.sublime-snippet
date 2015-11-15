@@ -36,23 +36,25 @@
 	<template>
 	</template>
 	<script>
-		'use strict';
-		Polymer({
-			is: '${1:componentName}',
-			properties: {
-				/**
-				* Property description
-				*/
-				propertyName: {
-					type: Object,
-					value: {},
-					notify: true
-				}
-			},
-			ready: function() {
+		(function() {
+			'use strict';
+			Polymer({
+				is: '${1:componentName}',
+				properties: {
+					/**
+					* Property description
+					*/
+					propertyName: {
+						type: Object,
+						value: {},
+						notify: true
+					}
+				},
+				ready: function() {
 
-			}
-		});
+				}
+			});
+		})();
 
 	</script>
 </dom-module>
