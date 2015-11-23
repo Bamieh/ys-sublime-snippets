@@ -1,7 +1,7 @@
 {
 	"schema_version": "3.0.0",
 	"packages": [{
-		"name": "ys-sublime-snippets",
+		"name": "ys-snippets",
 		"details": "https://github.com/Bamieh/ys-sublime-snippets",
 		"labels": ["snippets"],
 		"releases": [
